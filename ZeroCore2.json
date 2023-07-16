@@ -148,6 +148,8 @@
     },
     "1.20.1":{
         "1.20-2.1.36":"- Ported to Minecraft 1.20 / 1.20.1"
+		,
+		"1.20.1-2.1.37":"- Dropped support for Minecraft 1.20\r\n- Updated Forge to version 47.1.1\r\n- Updated CC:Tweaked to version 1.106.1\r\n- Updated JEI to version 15.2.0.23\r\n- Updated Patchouli to version 1.20.1-81\r\n- Re-enabled Patchouli compat\r\n- Bumped version to 2.1.37"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.19",
@@ -172,7 +174,7 @@
         "1.19.2-recommended":"1.19-2.1.34",
         "1.20-latest":"1.20-2.1.36",
         "1.20-recommended":"1.20-2.1.36",
-        "1.20.1-latest":"1.20-2.1.36",
-        "1.20.1-recommended":"1.20-2.1.36"
+        "1.20.1-latest":"1.20.1-2.1.37",
+        "1.20.1-recommended":"1.20.1-2.1.37"
     }
 }
