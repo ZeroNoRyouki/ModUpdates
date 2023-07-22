@@ -198,6 +198,8 @@
         "1.20-2.0.66":"- Ported to Minecraft 1.20 / 1.20.1"
 		,
 		"1.20.1-2.0.67":"- Dropped support for Minecraft 1.20\r\n- Updated Forge to version 47.1.1\r\n- Updated CC:Tweaked to version 1.106.1\r\n- Updated JEI to version 15.2.0.23\r\n- Updated Patchouli to version 1.20.1-81\r\n- Re-enabled Patchouli compat\r\n- Updated ZeroCore to version 2.1.37\r\n- Bumped version to 2.0.67"
+		,
+		"1.20.1-2.0.68":"- Fix crash when Patchouli is not around. Close #116\r\n- Updated ZeroCore to version 2.1.38\r\n- Bumped version to 2.0.68"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -222,7 +224,7 @@
         "1.19.2-recommended":"1.19-2.0.63",
         "1.20-latest":"1.20-2.0.66",
         "1.20-recommended":"1.20-2.0.66",
-        "1.20.1-latest":"1.20.1-2.0.67",
-        "1.20.1-recommended":"1.20.1-2.0.67"
+        "1.20.1-latest":"1.20.1-2.0.68",
+        "1.20.1-recommended":"1.20.1-2.0.68"
     }
 }
