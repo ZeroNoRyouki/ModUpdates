@@ -218,6 +218,10 @@
         "1.20.1-2.0.70":"- Completed move to wide energy storage\r\n- Prevent possibile energy transfer bug with certains mods and Passive Power Taps\r\n- Updated ZeroCore to version 2.1.39\r\n- Bumped version to 2.0.70"		
         ,
         "1.20.1-2.0.71":"- Added new end-game Turbine coil : Insanite\r\n- Rebalanced eng-game Turbine coils\r\n- Bumped version to 2.0.71"
+        ,
+        "1.20.1-2.0.72":"- Fixed incorrect drop from the Benitoite Ore. Closes #121\r\n- Bumped version to 2.0.72"
+        ,
+        "1.20.1-2.0.73":"- Re-enabled Mekanism compat\r\n- Updated Mekanism to version 1.20.1-10.4.0.14\r\n- Bumped version to 2.0.73"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -242,7 +246,7 @@
         "1.19.2-recommended":"1.19-2.0.71",
         "1.20-latest":"1.20-2.0.66",
         "1.20-recommended":"1.20-2.0.66",
-        "1.20.1-latest":"1.20.1-2.0.71",
-        "1.20.1-recommended":"1.20.1-2.0.71"
+        "1.20.1-latest":"1.20.1-2.0.73",
+        "1.20.1-recommended":"1.20.1-2.0.73"
     }
 }
