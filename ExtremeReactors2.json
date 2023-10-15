@@ -224,6 +224,8 @@
         "1.20.1-2.0.73":"- Re-enabled Mekanism compat\r\n- Updated Mekanism to version 1.20.1-10.4.0.14\r\n- Bumped version to 2.0.73"
         ,
         "1.20.1-2.0.74":"- Added missing fluid tag for Yellorium. Closes #127\r\n- Bumped version to 2.0.74"
+        ,
+        "1.20.1-2.0.75":"- Fixed in-game book recipe\r\n- Bumped version to 2.0.75"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -248,7 +250,7 @@
         "1.19.2-recommended":"1.19-2.0.71",
         "1.20-latest":"1.20-2.0.66",
         "1.20-recommended":"1.20-2.0.66",
-        "1.20.1-latest":"1.20.1-2.0.74",
-        "1.20.1-recommended":"1.20.1-2.0.74"
+        "1.20.1-latest":"1.20.1-2.0.75",
+        "1.20.1-recommended":"1.20.1-2.0.75"
     }
 }
