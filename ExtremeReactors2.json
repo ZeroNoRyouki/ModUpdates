@@ -226,6 +226,10 @@
         "1.20.1-2.0.74":"- Added missing fluid tag for Yellorium. Closes #127\r\n- Bumped version to 2.0.74"
         ,
         "1.20.1-2.0.75":"- Fixed in-game book recipe\r\n- Bumped version to 2.0.75"
+        ,
+        "1.20.1-2.0.76":"- Allow mods to add their own Reactor parts\r\n- Bumped version to 2.0.76"
+        ,
+        "1.20.1-2.0.77":"- Allow mods to add their own Turbine parts\r\n- Allow mods to add their own Reprocessors and Fluidizer parts\r\n- Updated ZeroCore to version 2.1.41\r\n- Bumped version to 2.0.77"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -250,7 +254,7 @@
         "1.19.2-recommended":"1.19-2.0.71",
         "1.20-latest":"1.20-2.0.66",
         "1.20-recommended":"1.20-2.0.66",
-        "1.20.1-latest":"1.20.1-2.0.75",
-        "1.20.1-recommended":"1.20.1-2.0.75"
+        "1.20.1-latest":"1.20.1-2.0.77",
+        "1.20.1-recommended":"1.20.1-2.0.77"
     }
 }
