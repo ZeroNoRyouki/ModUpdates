@@ -237,6 +237,8 @@
         "1.20.6-2.3.0":"- Updated to Minecraft 1.20.6\r\n- Switched to NeoForge, version 20.6.71-beta\r\n- Error reporting for multiblocks structures now happens while sneaking\r\n- Recipes and ER API now uses the new NeoForge / Fabric common tags (c:name)\r\n- Updated ZeroCore to 1.20.6-2.3.0\r\n- Bumped version to 2.3.0"
 		,
         "1.20.6-2.3.1":"- Fix multiblock parts being displayed with a broken texture when placed near another multiblock part\r\n- Fix fluids and reactants buckets not rendering the fluid colour\r\n- Updated ZeroCore to version 1.20.6-2.3.1\r\n- Bumped version to 2.3.1"
+		,
+        "1.20.6-2.3.2":"- Added back CC:Tweaked support\r\n- Updated CC:Tweaked version to 1.111.0\r\n- Fixed crash with missing implementation of the CC:Tweaked service. Close #152\r\n- Updated ZeroCore version to 2.3.2\r\n- Bumped version to 2.3.2"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -263,7 +265,7 @@
         "1.20-recommended":"1.20-2.0.66",
         "1.20.1-latest":"1.20.1-2.0.78",
         "1.20.1-recommended":"1.20.1-2.0.78",
-        "1.20.6-latest":"1.20.6-2.3.1",
-        "1.20.6-recommended":"1.20.6-2.3.1"
+        "1.20.6-latest":"1.20.6-2.3.2",
+        "1.20.6-recommended":"1.20.6-2.3.2"
     }
 }
