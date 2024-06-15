@@ -232,6 +232,8 @@
         "1.20.1-2.0.77":"- Allow mods to add their own Turbine parts\r\n- Allow mods to add their own Reprocessors and Fluidizer parts\r\n- Updated ZeroCore to version 2.1.41\r\n- Bumped version to 2.0.77"
         ,
         "1.20.1-2.0.78":"- Fix fluids and reactants buckets not rendering the fluid colour\r\nUpdated ZeroCore to version 1.20.1-2.1.42\r\nBumped version to 2.0.78"
+        ,
+        "1.20.1-2.0.79":"- Added the Energizer energy storage: a (max) 32x32x32 multiblock that can store up to 18.45 EFE. Build the frame with casing blocks, fill the interior with Energy Cells and place Controllers, Power Ports and Charging Ports on any face as you please (the in-game book pages are being written).\r\n- Added Raw Yellorium (item & block) and Deepslate Yellorite Ore block. Both Yellorite ores now drops Raw Yellorium\r\n- The Fluidizer now render the fluid in its internal tank\r\n- Fix Fluidizer recipe progress being resetted when the ingredients changes. Close #140\r\n- Fix Reprocessor recipe progress being reported when ingredients are not valid\r\n- Added moderators sub-command to /er\r\n- Reworked internal code for common machines/containers/screens\r\n- New layout for the Turbine Controller screen\r\n- Tweaked the alignment of controls in the screens of charging ports and the Reactor Solid Access port\r\n- Tweaked the screens of the Reactor\r\n- Tweaked the screens of the Fluidizer\r\n- Tweaked the screens of the Reprocessor\r\n- Added a show recipes button to the Reactor, Fluidizer and Reprocessor Controller screen\r\n- Updated translations and added it_it and ru_ru\r\n- Updated ZeroCore to version 2.1.43\r\n- Bumped version to 2.0.79"
     },
     "1.20.6":{
         "1.20.6-2.3.0":"- Updated to Minecraft 1.20.6\r\n- Switched to NeoForge, version 20.6.71-beta\r\n- Error reporting for multiblocks structures now happens while sneaking\r\n- Recipes and ER API now uses the new NeoForge / Fabric common tags (c:name)\r\n- Updated ZeroCore to 1.20.6-2.3.0\r\n- Bumped version to 2.3.0"
@@ -263,8 +265,8 @@
         "1.19.2-recommended":"1.19-2.0.71",
         "1.20-latest":"1.20-2.0.66",
         "1.20-recommended":"1.20-2.0.66",
-        "1.20.1-latest":"1.20.1-2.0.78",
-        "1.20.1-recommended":"1.20.1-2.0.78",
+        "1.20.1-latest":"1.20.1-2.0.79",
+        "1.20.1-recommended":"1.20.1-2.0.79",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2"
     }
