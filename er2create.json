@@ -1,0 +1,16 @@
+{
+    "homepage":"https://www.curseforge.com/minecraft/mc-mods/extreme-reactors-create-compat",
+    "1.20.1":{
+        "1.20.1-1.0.0":"- First release"
+		,
+        "1.20.1-1.0.1":"- Added Turbine display sources\r\n- Updated ZeroCore to version 2.1.41\r\n- Updated Extreme Reactors to version 2.0.77\r\n- Bumped version to 1.0.1"
+		,
+        "1.20.1-1.0.2":"- Fixed crash on dedicated servers\r\n- Bumped version to 1.0.2"
+		,
+        "1.20.1-1.0.3":"- Added support for the Energizer\r\n- Updated ZeroCore to version 2.1.43\r\n- Updated Extreme Reactors to version 2.0.79"
+    },
+    "promos":{
+        "1.20.1-latest":"1.20.1-1.0.3",
+        "1.20.1-recommended":"1.20.1-1.0.3"
+    }
+}
