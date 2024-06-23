@@ -178,6 +178,9 @@
 		,
         "1.20.6-2.3.2":"- Added back CC:Tweaked support\r\n- Updated CC:Tweaked version to 1.111.0\r\n- Use the fallback service if there is no implementation of a mod-dep service while the dep is present. Fix ER #152\r\n- Added Pair codec support to ModCodecs\r\n- Bumped version to 2.3.2"
     },
+    "1.21":{
+        "1.21-2.4.0":"- Updated Minecraft to version 1.21\r\n- New, simplified, block variant model builders\r\n- New logo!\r\n- Updated CC-Tweaked to version 1.111.0\r\n- Updated JEI to version 19.0.0.9\r\n- Updated NeoForge to version 21.0.21-beta\r\n- Bumped version to 2.4.0"
+    },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.19",
         "1.16.3-recommended":"1.16.4-2.0.19",
@@ -204,6 +207,8 @@
         "1.20.1-latest":"1.20.1-2.1.44",
         "1.20.1-recommended":"1.20.1-2.1.44",
         "1.20.6-latest":"1.20.6-2.3.2",
-        "1.20.6-recommended":"1.20.6-2.3.2"
+        "1.20.6-recommended":"1.20.6-2.3.2",
+        "1.21.0-latest":"1.21-2.4.0",
+        "1.21.0-recommended":"1.21-2.4.0"
     }
 }
