@@ -258,6 +258,8 @@
         "1.21-2.4.2":"- Added list sub-command to /er reactants | reaction | moderators | coils\r\n- Lifted limits on energy generation by popular demands\r\n- Mod packs API wrapper: allow empty arrays\r\n- Bumped version to 2.4.2"
 		,
         "1.21-2.4.3":"- Added the Energizer Computer Port\r\n- Added new/old moderators from Draconic-Evolution, allthemodium, Thermal Extra\r\n- Bumped version to 2.4.3"
+		,
+        "1.21-2.4.4":"- New data-gen run to fix the Energizer Computer Port recipe. Closes #155\r\n- Bumped version to 2.4.4"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -286,7 +288,7 @@
         "1.20.1-recommended":"1.20.1-2.0.83",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2",
-        "1.21.0-latest":"1.21-2.4.3",
-        "1.21.0-recommended":"1.21-2.4.3"		
+        "1.21.0-latest":"1.21-2.4.4",
+        "1.21.0-recommended":"1.21-2.4.4"		
     }
 }
