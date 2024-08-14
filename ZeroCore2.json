@@ -169,7 +169,9 @@
 		,
         "1.20.1-2.1.43":"- Reworked internal code for common machines/containers/screens\r\n- Backported service compat support from 1.20.6\r\n- GUI: new data binding system\r\n- GUI: the debug hover frame now display the control position and size if shilt is held pressed\r\n- GUI: AnchoredLayoutEngine now center horizontally controls with a Top or Bottom layout hint\r\n- GUI: VerticalLayoutEngine and HorizontalLayoutEngine now honor the vertical / horizontal aligment setting of the layout engine\r\n- GUI: added HelpButton variant to show JEI recipes\r\n- Added FluidTankRenderer\r\n- Added MeteredWideEnergyBuffer\r\n- Updated SI prefixes\r\n- Bumped version to 2.1.43"
 		,
-        "1.20.1-2.1.44":"- Added variants support to BlockVariantsMod\r\n- Bumped version to 2.1.44"		
+        "1.20.1-2.1.44":"- Added variants support to BlockVariantsMod\r\n- Bumped version to 2.1.44"
+		,
+        "1.20.1-2.1.45":"- Forge only init capabilities for BucketItem so let's init them ourself. Closes ER #160\r\n- Bumped version 2.1.45"
     },
     "1.20.6":{
         "1.20.6-2.3.0":"- Updated to Minecraft 1.20.6\r\n- Switched to NeoForge, version 20.6.71-beta\r\n- Error reporting for multiblocks structures now happens while sneaking\r\n- Bumped version to 2.3.0"
@@ -204,8 +206,8 @@
         "1.19.2-recommended":"1.19-2.1.39",
         "1.20-latest":"1.20-2.1.36",
         "1.20-recommended":"1.20-2.1.36",
-        "1.20.1-latest":"1.20.1-2.1.44",
-        "1.20.1-recommended":"1.20.1-2.1.44",
+        "1.20.1-latest":"1.20.1-2.1.45",
+        "1.20.1-recommended":"1.20.1-2.1.45",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.0",
