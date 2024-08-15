@@ -262,6 +262,8 @@
         "1.21-2.4.3":"- Added the Energizer Computer Port\r\n- Added new/old moderators from Draconic-Evolution, allthemodium, Thermal Extra\r\n- Bumped version to 2.4.3"
 		,
         "1.21-2.4.4":"- New data-gen run to fix the Energizer Computer Port recipe. Closes #155\r\n- Bumped version to 2.4.4"
+		,
+        "1.21-2.4.5":"- Fixed fluid buckets not working properly. Closes #160\r\n- Updated ZeroCore to version 2.4.1\r\n- Bumped version to 2.4.5"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -290,7 +292,9 @@
         "1.20.1-recommended":"1.20.1-2.0.84",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2",
-        "1.21.0-latest":"1.21-2.4.4",
-        "1.21.0-recommended":"1.21-2.4.4"		
+        "1.21.0-latest":"1.21-2.4.5",
+        "1.21.0-recommended":"1.21-2.4.5",
+		"1.21.1-latest":"1.21-2.4.5",
+        "1.21.1-recommended":"1.21-2.4.5"
     }
 }
