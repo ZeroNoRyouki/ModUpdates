@@ -187,6 +187,8 @@
     },
     "1.21.1":{
 		"1.21.1-2.4.2":"- Updated Minecraft to version 1.21.1\r\n- Updated NeoForge to version 21.1.22\r\n- Updated CC:Tweaked to version 1.113.0\r\n- Updated JEI to version 19.9.0.122\r\n- Bumped version to 2.4.2"
+		,
+		"1.21.1-2.4.3":"- Multiblock: Request render updates only on the logical client side\r\n- Bumped version to 2.4.3"
     },		
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.19",
@@ -217,7 +219,7 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.1",
         "1.21.0-recommended":"1.21-2.4.1",
-        "1.21.1-latest":"1.21.1-2.4.2",
-        "1.21.1-recommended":"1.21.1-2.4.2"
+        "1.21.1-latest":"1.21.1-2.4.3",
+        "1.21.1-recommended":"1.21.1-2.4.3"
     }
 }
