@@ -269,6 +269,8 @@
         "1.21.1-2.4.6":"- Add missing tags for ores, ingots and storage blocks. Closes #157\r\n- Switched from IGasHandler to the new IChemicalHandler capability of Mekanism 1.21.1. Closes #162\r\n- Fix Reactor Creative Water generator valid block\r\n- Fix Turbine Creative Steam generator valid blocks\r\n- Updated Minecraft to version 1.21.1\r\n- Updated NeoForge to version 21.1.22\r\n- Updated CC:Tweaked to version 1.113.0\r\n- Updated JEI to version 19.9.0.122\r\n- Updated Mekanism to version 1.21.1-10.7.0.55\r\n- Updated ZeroCore to version 2.4.2\r\n- Bumped version to 2.4.6"
 		,
         "1.21.1-2.4.7":"- Fix crash with sodium 0.6.0-beta.1. Closes #163\r\n- Updated ZeroCore to version 2.4.3\r\n- Bumped version to 2.4.7"
+		,
+        "1.21.1-2.4.8":"- Switched Item/FluidStack serialization to the Item/FluidStack optional codec. Closes #164\r\n- Fixed Fluidizer injectors item component tooltip\r\n- API: added codecs to Coolant, Vapor and Reactant (and related classes)\r\n- Remove usage of some deprecated methods from JEI\r\n- Updated ZeroCore to version 1.21.1-2.4.8\r\n- Bumped version to 2.4.8"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -299,7 +301,7 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
-		"1.21.1-latest":"1.21.1-2.4.7",
-        "1.21.1-recommended":"1.21.1-2.4.7"
+		"1.21.1-latest":"1.21.1-2.4.8",
+        "1.21.1-recommended":"1.21.1-2.4.8"
     }
 }
