@@ -271,6 +271,8 @@
         "1.21.1-2.4.7":"- Fix crash with sodium 0.6.0-beta.1. Closes #163\r\n- Updated ZeroCore to version 2.4.3\r\n- Bumped version to 2.4.7"
 		,
         "1.21.1-2.4.8":"- Switched Item/FluidStack serialization to the Item/FluidStack optional codec. Closes #164\r\n- Fixed Fluidizer injectors item component tooltip\r\n- API: added codecs to Coolant, Vapor and Reactant (and related classes)\r\n- Remove usage of some deprecated methods from JEI\r\n- Updated ZeroCore to version 1.21.1-2.4.8\r\n- Bumped version to 2.4.8"
+		,
+        "1.21.1-2.4.9":"- Fixed a crash with sodium 0.0.6 beta. Closes #171\r\n- Updated ZeroCore to version 2.4.9\r\n- Bumped version to 2.4.9"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -301,7 +303,7 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
-		"1.21.1-latest":"1.21.1-2.4.8",
-        "1.21.1-recommended":"1.21.1-2.4.8"
+		"1.21.1-latest":"1.21.1-2.4.9",
+        "1.21.1-recommended":"1.21.1-2.4.9"
     }
 }
