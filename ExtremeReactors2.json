@@ -246,6 +246,8 @@
         "1.20.1-2.0.84":"- Fixed fluid buckets not working properly. Closes #160\r\n- Updated ZeroCore to version 2.1.45\r\n- Bumped version to 2.0.84"
         ,
         "1.20.1-2.0.85":"- Fix loading of er_gui_theme.json. Closes #172\r\n- Book: added a section for the Energizer and a new introductory text\r\n- Book: refined the old pages a bit\r\n- Updated ZeroCore to version 2.1.46\r\n- Bumped version to 2.0.85"
+        ,
+        "1.20.1-2.0.86":"- Fix particles on rotor shaft and blade blocks. Closes #174\r\n- Bumped version to 2.0.86"
 	},
     "1.20.6":{
         "1.20.6-2.3.0":"- Updated to Minecraft 1.20.6\r\n- Switched to NeoForge, version 20.6.71-beta\r\n- Error reporting for multiblocks structures now happens while sneaking\r\n- Recipes and ER API now uses the new NeoForge / Fabric common tags (c:name)\r\n- Updated ZeroCore to 1.20.6-2.3.0\r\n- Bumped version to 2.3.0"
@@ -303,8 +305,8 @@
         "1.19.2-recommended":"1.19-2.0.71",
         "1.20-latest":"1.20-2.0.66",
         "1.20-recommended":"1.20-2.0.66",
-        "1.20.1-latest":"1.20.1-2.0.85",
-        "1.20.1-recommended":"1.20.1-2.0.85",
+        "1.20.1-latest":"1.20.1-2.0.86",
+        "1.20.1-recommended":"1.20.1-2.0.86",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
