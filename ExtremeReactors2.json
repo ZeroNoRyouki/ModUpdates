@@ -283,6 +283,8 @@
         "1.21.1-2.4.11":"- Fix loading of er_gui_theme.json. Closes #172\r\n- Added back Patchouli support\r\n- Book: added a section for the Energizer and a new introductory text\r\n- Book: refined the old pages a bit\r\n- Updated Patchouli to version 1.21-87\r\n- Updated ZeroCore to version 2.4.11\r\n- Bumped version to 2.4.11"
 		,
         "1.21.1-2.4.12":"- Fixed recipes of the in-game book. Closes #179\r\n- Bumped version to 2.4.12"
+		,
+        "1.21.1-2.4.13":"- Fix particles on rotor shaft and blade blocks. Closes #174\r\n- Added a model fallback to be used when (Neo)Forge cannot supply the correct ModelData during quad or particle requests (see https://github.com/neoforged/NeoForge/issues/1629)\r\n- Updated ZeroCore to version 1.21.1-2.4.13\r\n- Bumped version to 2.4.13"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -313,7 +315,7 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
-		"1.21.1-latest":"1.21.1-2.4.12",
-        "1.21.1-recommended":"1.21.1-2.4.12"
+		"1.21.1-latest":"1.21.1-2.4.13",
+        "1.21.1-recommended":"1.21.1-2.4.13"
     }
 }
