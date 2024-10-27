@@ -199,6 +199,8 @@
 		"1.21.1-2.4.9":"- Fixed a crash with sodium 0.0.6 beta. WorldHelper#markBlockRangeForRenderUpdate now requires a Level: this is a breaking change\r\n- Bumped version to 2.4.9"
 		,
 		"1.21.1-2.4.11":"- Reset shader colour after paint a solid rect / triangle. Closes ER #172\r\n- Added back Patchouli support\r\n- Updated Patchouli to version 1.21-87\r\n- Bumped version to 2.4.11"
+		,
+		"1.21.1-2.4.13":"- (Neo)Forge has an issue where it provides incorrect, empty ModelData when fall damage particles are requested for ModelData-aware blocks (see https://github.com/neoforged/NeoForge/issues/1629). To address this, a fallback ModelData option has been added, which will be used in cases where the requested ModelData returns empty.\r\n- Bumped version to 2.4.13"
     },		
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.19",
@@ -229,7 +231,7 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.1",
         "1.21.0-recommended":"1.21-2.4.1",
-        "1.21.1-latest":"1.21.1-2.4.11",
-        "1.21.1-recommended":"1.21.1-2.4.11"
+        "1.21.1-latest":"1.21.1-2.4.13",
+        "1.21.1-recommended":"1.21.1-2.4.13"
     }
 }
