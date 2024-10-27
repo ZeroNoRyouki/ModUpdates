@@ -174,6 +174,8 @@
         "1.20.1-2.1.45":"- Forge only init capabilities for BucketItem so let's init them ourself. Closes ER #160\r\n- Bumped version 2.1.45"
 		,
         "1.20.1-2.1.46":"- Reset shader colour after paint a solid rect / triangle. Closes ER #172\r\n- Bumped version to 2.1.46"
+		,
+        "1.20.1-2.1.47":"- (Neo)Forge has an issue where it provides incorrect, empty ModelData when fall damage particles are requested for ModelData-aware blocks (see https://github.com/neoforged/NeoForge/issues/1629). To address this, a fallback ModelData option has been added, which will be used in cases where the requested ModelData returns empty.\r\n- Bumped version to 2.1.47"
     },
     "1.20.6":{
         "1.20.6-2.3.0":"- Updated to Minecraft 1.20.6\r\n- Switched to NeoForge, version 20.6.71-beta\r\n- Error reporting for multiblocks structures now happens while sneaking\r\n- Bumped version to 2.3.0"
@@ -221,8 +223,8 @@
         "1.19.2-recommended":"1.19-2.1.39",
         "1.20-latest":"1.20-2.1.36",
         "1.20-recommended":"1.20-2.1.36",
-        "1.20.1-latest":"1.20.1-2.1.46",
-        "1.20.1-recommended":"1.20.1-2.1.46",
+        "1.20.1-latest":"1.20.1-2.1.47",
+        "1.20.1-recommended":"1.20.1-2.1.47",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.1",
