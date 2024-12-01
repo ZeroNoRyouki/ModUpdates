@@ -293,6 +293,8 @@
         "1.21.1-2.4.14":"- New low-poly Turbine Rotor model for better shader compatibility\r\n- Bumped version to 2.4.14"
 		,
         "1.21.1-2.4.15":"- Added the Energizer Active FE Power Port block. In output mode, it supplies energy to any Forge Energy-compatible block. Closes #182\r\n- Tweaked energy distribution to exclude all passive and input ports\r\n- Bumped version to 2.4.15"
+		,
+        "1.21.1-2.4.16":"- Allows empty fluid stacks to be saved in a Fuel Injection Port in item form. Closes #183\r\n- Updated ZeroCore to version 2.4.14\r\n- Bumped version to 2.4.16"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -323,7 +325,7 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
-		"1.21.1-latest":"1.21.1-2.4.15",
-        "1.21.1-recommended":"1.21.1-2.4.15"
+		"1.21.1-latest":"1.21.1-2.4.16",
+        "1.21.1-recommended":"1.21.1-2.4.16"
     }
 }
