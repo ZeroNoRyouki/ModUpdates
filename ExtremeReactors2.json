@@ -297,6 +297,8 @@
         "1.21.1-2.4.16":"- Allows empty fluid stacks to be saved in a Fuel Injection Port in item form. Closes #183\r\n- Updated ZeroCore to version 2.4.14\r\n- Bumped version to 2.4.16"
 		,
         "1.21.1-2.4.17":"- Split render properties away from ReactorFluidType to avoid side-related issues\r\n- Bumped version to 2.4.17"
+		,
+        "1.21.1-2.4.18":"- Added Deepslate Yellorite Ore to the c:ores tag\r\n- Split render properties away from Steam too\r\n- Bumped version to 2.4.18"
     },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
@@ -327,7 +329,7 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
-		"1.21.1-latest":"1.21.1-2.4.17",
-        "1.21.1-recommended":"1.21.1-2.4.17"
+		"1.21.1-latest":"1.21.1-2.4.18",
+        "1.21.1-recommended":"1.21.1-2.4.18"
     }
 }
