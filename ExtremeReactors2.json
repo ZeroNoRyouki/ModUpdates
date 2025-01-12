@@ -302,6 +302,9 @@
 		,
         "1.21.1-2.4.19":"- Reactors and Turbines don't reset statistical data anymore at the start of the tick, which provided occasional incorrect data from the Computer APIs\r\n- Bumped version to 2.4.19"
     },
+    "1.21.4":{
+        "1.21.4-2.4.19":"- BETA VERSION\r\n- Updated Minecraft to version 1.21.4\r\n- Updated NeoForge to version 21.4.51-beta\r\n- Updated ZeroCore to version 1.21.4-2.4.15\r\n- Bumped version to 1.21.4-2.4.19"
+    },
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.21",
         "1.16.3-recommended":"1.16.4-2.0.21",
@@ -332,6 +335,8 @@
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
 		"1.21.1-latest":"1.21.1-2.4.19",
-        "1.21.1-recommended":"1.21.1-2.4.19"
+        "1.21.1-recommended":"1.21.1-2.4.19",
+		"1.21.4-latest":"1.21.4-2.4.19",
+        "1.21.4-recommended":"1.21.4-2.4.19"
     }
 }
