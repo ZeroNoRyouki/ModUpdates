@@ -255,7 +255,9 @@
 		,
         "1.20.1-2.0.90":"- Added the Energizer Active FE Power Port block. In output mode, it supplies energy to any Forge Energy-compatible block. Closes #182\r\n- Tweaked energy distribution to exclude all passive and input ports\r\n- Bumped version to 2.0.90"
 		,
-        "1.20.1-2.0.91":"- Changed the min/max values of the global/reactor/turbine power production multiplier to 0.005 / 100.0\r\n- Changed the max capacity of the reactor/turbine energy buffers to scale with the power production multipliers in the same way as energy production is.\r\n- Fixed energy buffer capacity not correctly reported in the Reactor Controller GUI\r\n- Bumped version to 2.0.91"		
+        "1.20.1-2.0.91":"- Changed the min/max values of the global/reactor/turbine power production multiplier to 0.005 / 100.0\r\n- Changed the max capacity of the reactor/turbine energy buffers to scale with the power production multipliers in the same way as energy production is.\r\n- Fixed energy buffer capacity not correctly reported in the Reactor Controller GUI\r\n- Bumped version to 2.0.91"
+		,
+        "1.20.1-2.0.92":"- Fixed crash related to an empty FuelRodMap. Closes #196\r\n- Bumped version to 2.0.92"		
 	},
     "1.20.6":{
         "1.20.6-2.3.0":"- Updated to Minecraft 1.20.6\r\n- Switched to NeoForge, version 20.6.71-beta\r\n- Error reporting for multiblocks structures now happens while sneaking\r\n- Recipes and ER API now uses the new NeoForge / Fabric common tags (c:name)\r\n- Updated ZeroCore to 1.20.6-2.3.0\r\n- Bumped version to 2.3.0"
@@ -334,8 +336,8 @@
         "1.19.2-recommended":"1.19-2.0.71",
         "1.20-latest":"1.20-2.0.66",
         "1.20-recommended":"1.20-2.0.66",
-        "1.20.1-latest":"1.20.1-2.0.91",
-        "1.20.1-recommended":"1.20.1-2.0.91",
+        "1.20.1-latest":"1.20.1-2.0.92",
+        "1.20.1-recommended":"1.20.1-2.0.92",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
