@@ -208,6 +208,8 @@
 	},		
     "1.21.4":{
 		"1.21.4-2.4.15":"- BETA VERSION\r\n- Updated Minecraft to version 1.21.4\r\n- Updated NeoForge to version 21.4.51-beta\r\n- Bumped version to 1.21.4-2.4.15"
+		,
+		"1.21.4-2.4.16":"- Patched reload listeners registration after NeoForge changes caused issues.\r\n- Updated NeoForge to version 21.4.97-beta\r\n- Bumped version to 2.4.16"
     },		
     "promos":{
         "1.16.3-latest":"1.16.4-2.0.19",
@@ -240,7 +242,7 @@
         "1.21.0-recommended":"1.21-2.4.1",
         "1.21.1-latest":"1.21.1-2.4.16",
         "1.21.1-recommended":"1.21.1-2.4.16",
-        "1.21.4-latest":"1.21.4-2.4.15",
-        "1.21.4-recommended":"1.21.4-2.4.15"
+        "1.21.4-latest":"1.21.4-2.4.16",
+        "1.21.4-recommended":"1.21.4-2.4.16"
     }
 }
