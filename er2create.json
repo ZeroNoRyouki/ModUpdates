@@ -8,9 +8,11 @@
         "1.20.1-1.0.2":"- Fixed crash on dedicated servers\r\n- Bumped version to 1.0.2"
 		,
         "1.20.1-1.0.3":"- Added support for the Energizer\r\n- Updated ZeroCore to version 2.1.43\r\n- Updated Extreme Reactors to version 2.0.79"
+		,
+        "1.20.1-1.0.4":"- The mod is now compatible with Create 6.0.5\r\n- Updated Forge to version 47.2.6\r\n- Updated Extreme Reactors to version 2.0.92\r\n- Updated ZeroCore to version 2.1.47\r\n- Updated Create to version 6.0.5\r\n- Updated JEI to version 15.20.0.106\r\n- Bumped version to 1.0.4"		
     },
     "promos":{
-        "1.20.1-latest":"1.20.1-1.0.3",
-        "1.20.1-recommended":"1.20.1-1.0.3"
+        "1.20.1-latest":"1.20.1-1.0.4",
+        "1.20.1-recommended":"1.20.1-1.0.4"
     }
 }
