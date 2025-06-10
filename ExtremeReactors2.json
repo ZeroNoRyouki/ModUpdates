@@ -309,6 +309,8 @@
         "1.21.1-2.4.20":"- Changed the min/max values of the global/reactor/turbine power production multiplier to 0.005 / 100.0\r\n- Changed the max capacity of the reactor/turbine energy buffers to scale with the power production multipliers in the same way as energy production is.\r\n- Fixed energy buffer capacity not correctly reported in the Reactor Controller GUI\r\n- Bumped version to 2.4.20"
 		,
         "1.21.1-2.4.21":"- Fixed crash related to an empty FuelRodMap. Closes #192\r\n- Bumped version to 2.4.21"
+		,
+        "1.21.1-2.4.22":"- Removed unneeded data compoments from Reprocessor / Fluidizer recipes. Closes #198\r\n- Updated ZeroCore to version 2.4.17\r\n- Bumped version to 2.4.22"
 	},
     "1.21.4":{
         "1.21.4-2.4.19":"- BETA VERSION\r\n- Updated Minecraft to version 1.21.4\r\n- Updated NeoForge to version 21.4.51-beta\r\n- Updated ZeroCore to version 1.21.4-2.4.15\r\n- Bumped version to 1.21.4-2.4.19"
@@ -344,8 +346,8 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
-		"1.21.1-latest":"1.21.1-2.4.21",
-        "1.21.1-recommended":"1.21.1-2.4.21",
+		"1.21.1-latest":"1.21.1-2.4.22",
+        "1.21.1-recommended":"1.21.1-2.4.22",
 		"1.21.4-latest":"1.21.4-2.4.20",
         "1.21.4-recommended":"1.21.4-2.4.20"
     }
