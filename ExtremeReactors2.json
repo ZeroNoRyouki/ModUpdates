@@ -311,6 +311,8 @@
         "1.21.1-2.4.21":"- Fixed crash related to an empty FuelRodMap. Closes #192\r\n- Bumped version to 2.4.21"
 		,
         "1.21.1-2.4.22":"- Removed unneeded data compoments from Reprocessor / Fluidizer recipes. Closes #198\r\n- Updated ZeroCore to version 2.4.17\r\n- Bumped version to 2.4.22"
+		,
+        "1.21.1-2.4.23":"- Added compatibility with Create 6.0.6\r\n- Updated JEI to version 19.21.0.247\r\n- Updated Patchouli to version 1.21-88\r\n- Updated Mekanism to version 10.7.9.72\r\n- Updated CC:Tweaked to version 1.115.1\r\n- Updated ZeroCore to version 2.4.18\r\n- Updated NeoForge to version 21.1.152\r\n- Updated gradle to version 8.10\r\n- Updated NeoGradle to version 7.0.183\r\n- Bumped version to 2.4.23"
 	},
     "1.21.4":{
         "1.21.4-2.4.19":"- BETA VERSION\r\n- Updated Minecraft to version 1.21.4\r\n- Updated NeoForge to version 21.4.51-beta\r\n- Updated ZeroCore to version 1.21.4-2.4.15\r\n- Bumped version to 1.21.4-2.4.19"
@@ -346,8 +348,8 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
-		"1.21.1-latest":"1.21.1-2.4.22",
-        "1.21.1-recommended":"1.21.1-2.4.22",
+		"1.21.1-latest":"1.21.1-2.4.23",
+        "1.21.1-recommended":"1.21.1-2.4.23",
 		"1.21.4-latest":"1.21.4-2.4.20",
         "1.21.4-recommended":"1.21.4-2.4.20"
     }
