@@ -209,6 +209,8 @@
 		"1.21.1-2.4.17":"- Avoid adding data components when creating an ItemStackRecipeIngredient from an Item(Like). Closes ER #198\r\n- Bumped version to 2.4.17"
 		,
 		"1.21.1-2.4.18":"- Added compatibility with Create 6.0.6\r\n- Updated JEI to version 19.21.0.247\r\n- Updated Patchouli to version 1.21-88\r\n- Updated CC:Tweaked to version 1.115.1\r\n- Updated NeoForge to version 21.1.152\r\n- Updated gradle to version 8.10\r\n- Updated NeoGradle to version 7.0.183\r\n- Bumped version to 2.4.18"
+		,
+		"1.21.1-2.4.20":"- GUI: fixed problems for tooltips on retina displays Macs\r\n- GUI: the debug frame feature can now be used outside a dev-env\r\n- Bumped version to 2.4.20"
 	},		
     "1.21.4":{
 		"1.21.4-2.4.15":"- BETA VERSION\r\n- Updated Minecraft to version 1.21.4\r\n- Updated NeoForge to version 21.4.51-beta\r\n- Bumped version to 1.21.4-2.4.15"
@@ -244,8 +246,8 @@
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.1",
         "1.21.0-recommended":"1.21-2.4.1",
-        "1.21.1-latest":"1.21.1-2.4.18",
-        "1.21.1-recommended":"1.21.1-2.4.18",
+        "1.21.1-latest":"1.21.1-2.4.20",
+        "1.21.1-recommended":"1.21.1-2.4.20",
         "1.21.4-latest":"1.21.4-2.4.16",
         "1.21.4-recommended":"1.21.4-2.4.16"
     }
