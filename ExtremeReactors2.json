@@ -264,6 +264,8 @@
         "1.20.1-2.0.94":"- Reactors, Turbines and Energizers now don't turn themself off when the multiblock is disassambled (by the player or by chunk unloading) keeping their last know state when a save is reloaded. Closes #205\r\n- Bumped version to 2.0.94"
 		,
         "1.20.1-2.0.95":"- Added simplified Chinese localization (by ZH)\r\n- Added Japanese localization (by twister716)\r\n- Bumped version to 2.0.95"
+		,
+        "1.20.1-2.0.96":"- Raised max extraction rate for Reactors/Turbines Power Ports from 5 MFE/t to 50 MFE/t\r\n- Raised max charge rate for Reactors/Turbines Charging Ports from 5 KFE/t to 25 KFE/t\r\n- Bumped version to 2.0.96"
 	},
     "1.20.6":{
         "1.20.6-2.3.0":"- Updated to Minecraft 1.20.6\r\n- Switched to NeoForge, version 20.6.71-beta\r\n- Error reporting for multiblocks structures now happens while sneaking\r\n- Recipes and ER API now uses the new NeoForge / Fabric common tags (c:name)\r\n- Updated ZeroCore to 1.20.6-2.3.0\r\n- Bumped version to 2.3.0"
@@ -325,6 +327,8 @@
         "1.21.1-2.4.25":"- Reactors, Turbines and Energizers now don't turn themself off when the multiblock is disassambled (by the player or by chunk unloading) keeping their last know state when a save is reloaded. Closes #205\r\n- Bumped version to 2.4.25"
 		,
         "1.21.1-2.4.26":"- Added simplified Chinese localization (by ZH)\r\n- Added Turkish localization (by RuyaSavascisi)\r\n- Added Japanese localization (by twister716)\r\n- Updated Portuguese (Brazil) localization (by PrincessStellar)\r\n- Bumped version to 2.4.26"
+		,
+        "1.21.1-2.4.27":"- Raised max extraction rate for Reactors/Turbines Power Ports from 5 MFE/t to 50 MFE/t\r\n- Raised max charge rate for Reactors/Turbines Charging Ports from 5 KFE/t to 25 KFE/t\r\n- Bumped version to 2.4.27"
 	},
     "1.21.4":{
         "1.21.4-2.4.19":"- BETA VERSION\r\n- Updated Minecraft to version 1.21.4\r\n- Updated NeoForge to version 21.4.51-beta\r\n- Updated ZeroCore to version 1.21.4-2.4.15\r\n- Bumped version to 1.21.4-2.4.19"
@@ -354,14 +358,14 @@
         "1.19.2-recommended":"1.19-2.0.71",
         "1.20-latest":"1.20-2.0.66",
         "1.20-recommended":"1.20-2.0.66",
-        "1.20.1-latest":"1.20.1-2.0.95",
-        "1.20.1-recommended":"1.20.1-2.0.95",
+        "1.20.1-latest":"1.20.1-2.0.96",
+        "1.20.1-recommended":"1.20.1-2.0.96",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.5",
         "1.21.0-recommended":"1.21-2.4.5",
-		"1.21.1-latest":"1.21.1-2.4.26",
-        "1.21.1-recommended":"1.21.1-2.4.26",
+		"1.21.1-latest":"1.21.1-2.4.27",
+        "1.21.1-recommended":"1.21.1-2.4.27",
 		"1.21.4-latest":"1.21.4-2.4.20",
         "1.21.4-recommended":"1.21.4-2.4.20"
     }
