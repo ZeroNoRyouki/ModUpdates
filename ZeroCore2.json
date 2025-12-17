@@ -176,6 +176,8 @@
         "1.20.1-2.1.46":"- Reset shader colour after paint a solid rect / triangle. Closes ER #172\r\n- Bumped version to 2.1.46"
 		,
         "1.20.1-2.1.47":"- (Neo)Forge has an issue where it provides incorrect, empty ModelData when fall damage particles are requested for ModelData-aware blocks (see https://github.com/neoforged/NeoForge/issues/1629). To address this, a fallback ModelData option has been added, which will be used in cases where the requested ModelData returns empty.\r\n- Bumped version to 2.1.47"
+		,
+        "1.20.1-2.1.48":"- Stop multiblocks from keeping chunks loaded more then necessary\r\n- Bumped version to 2.1.48"
     },
     "1.20.6":{
         "1.20.6-2.3.0":"- Updated to Minecraft 1.20.6\r\n- Switched to NeoForge, version 20.6.71-beta\r\n- Error reporting for multiblocks structures now happens while sneaking\r\n- Bumped version to 2.3.0"
@@ -211,6 +213,8 @@
 		"1.21.1-2.4.18":"- Added compatibility with Create 6.0.6\r\n- Updated JEI to version 19.21.0.247\r\n- Updated Patchouli to version 1.21-88\r\n- Updated CC:Tweaked to version 1.115.1\r\n- Updated NeoForge to version 21.1.152\r\n- Updated gradle to version 8.10\r\n- Updated NeoGradle to version 7.0.183\r\n- Bumped version to 2.4.18"
 		,
 		"1.21.1-2.4.20":"- GUI: fixed problems for tooltips on retina displays Macs\r\n- GUI: the debug frame feature can now be used outside a dev-env\r\n- Bumped version to 2.4.20"
+		,
+        "1.21.1-2.4.21":"- Stop multiblocks from keeping chunks loaded more then necessary\r\n- Bumped version to 2.4.21"
 	},		
     "1.21.4":{
 		"1.21.4-2.4.15":"- BETA VERSION\r\n- Updated Minecraft to version 1.21.4\r\n- Updated NeoForge to version 21.4.51-beta\r\n- Bumped version to 1.21.4-2.4.15"
@@ -240,13 +244,13 @@
         "1.19.2-recommended":"1.19-2.1.39",
         "1.20-latest":"1.20-2.1.36",
         "1.20-recommended":"1.20-2.1.36",
-        "1.20.1-latest":"1.20.1-2.1.47",
+        "1.20.1-latest":"1.20.1-2.1.48",
         "1.20.1-recommended":"1.20.1-2.1.47",
         "1.20.6-latest":"1.20.6-2.3.2",
         "1.20.6-recommended":"1.20.6-2.3.2",
         "1.21.0-latest":"1.21-2.4.1",
         "1.21.0-recommended":"1.21-2.4.1",
-        "1.21.1-latest":"1.21.1-2.4.20",
+        "1.21.1-latest":"1.21.1-2.4.21",
         "1.21.1-recommended":"1.21.1-2.4.20",
         "1.21.4-latest":"1.21.4-2.4.16",
         "1.21.4-recommended":"1.21.4-2.4.16"
